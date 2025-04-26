@@ -52,6 +52,14 @@ h2 {
     padding-bottom: 5px;
 }
 
+h2 {
+    margin: 0;
+    padding-bottom: 5px;
+    /* Supprimer la ligne en dessous */
+    border-bottom: none;
+}
+
+
 h1 {
     font-size: 2em;
 }
